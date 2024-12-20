@@ -66,12 +66,12 @@ export default function HomeScreen() {
         <View style={styles.productList}>
           {[
             {
-              name: "Air Jordan XI Retro",
+              name: "Hydroponics",
               price: "₹16995",
               image: "https://via.placeholder.com/150",
             },
             {
-              name: "Air Jordan IV",
+              name: "Autonomous Tractor",
               price: "₹18995",
               image: "https://via.placeholder.com/150",
             },
